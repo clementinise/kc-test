@@ -23,3 +23,5 @@
 
 -----
 server/server.lua
+client/client.lua
+config.lua
