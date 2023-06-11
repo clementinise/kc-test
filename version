@@ -20,9 +20,3 @@
 - FiveM-Checker update? :O
 <1.0>
 - Initial release
-
------
-server/server.lua
-client/client.lua
-config.lua
-fxmanifest.lua
